@@ -1,0 +1,45 @@
+DIR_NAME,ACTION_NAME,CENTERING_PARAM
+apple,"Apple Peeling/Cutting",0.309
+avocado,"Avocado Peeling/Slicing",0.337
+bacon,"Bacon Frying",0.371
+ball,"Ball Inflating",0.301
+beer,"Beer Pouring",0.324
+boil_milk,"Milk Boiling",0.480
+box,"Gift/Box Wrapping",0.346
+butter,"Butter Melting",0.319
+cake,"Cake Frosting",0.380
+candle,"Candle Lighting",0.278
+champagne,"Champagne Opening",0.305
+cherries,"Cherries Pitting",0.293
+chocolate,"Chocolate Melting",0.352
+coffee,"Coffee Grinding",0.411
+corn,"Corn Peeling",0.385
+cream,"Cream Whipping",0.506
+cube,"Rubik's Cube Solving",0.542
+dough,"Dough Rolling",0.395
+dragon_fruit,"Dragon Fruit Peeling/Cutting",0.331
+drill,"Wood Drilling",0.369
+eggs,"Eggs Peeling",0.422
+fish,"Fish Filleting",0.327
+garlic,"Garlic Peeling/Chopping",0.368
+grill,"Grill Starting",0.379
+juice,"Juice Pouring",0.288
+milk,"Milk Pouring",0.294
+onion,"Onions Peeling/Chopping",0.355
+outlet,"Outlet Installing",0.437
+pan,"Pan Cleaning",0.396
+pancake,"Pancake Flipping",0.383
+pineapple,"Pineapple Peeling/Slicing",0.397
+plane,"Paper Plane Folding",0.484
+potatoes,"Potatoes Frying",0.404
+ribbon,"Ribbon/Bow Tying",0.357
+rope,"Rope/Knot Tying",0.316
+shoes,"Shoes Cleaning",0.367
+t-shirt,"T-shirt Dyeing",0.362
+tea,"Tea Pouring",0.345
+tie,"Tie Tying",0.336
+tile,"Tile Cutting",0.348
+tortilla,"Tortilla Wrapping",0.345
+tree,"Tree Cutting",0.349
+weed,"Weed Removing",0.270
+whisk_eggs,"Eggs Whisking",0.377
